@@ -15,3 +15,8 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# React 빌드/의존성
+node_modules/
+dist/
+.npm-cache/
